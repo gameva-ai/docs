@@ -2,16 +2,12 @@
 
 * [Welcome](README.md)
 
-## Getting Started
+## Product
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [What is Gameva?](product/quickstart.md)
+* [Platfrom](product/publish-your-docs.md)
+* [The Bigger Vision](product/the-bigger-vision.md)
 
-## Basics
+## Tokenomcis
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [CA](tokenomcis/quickstart.md)

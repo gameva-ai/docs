@@ -4,4 +4,4 @@ icon: question
 
 # CA
 
-**We have no token yet.**
+We have no token yet.

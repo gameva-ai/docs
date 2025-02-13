@@ -6,7 +6,7 @@ icon: question
 
 Gameva is a platform powered by AI, designed to turn your visions into games. Think of it as game **console with infinite ideas**—not owned by corporations, but by you. It’s where gaming meets **creation, boundless potential and co-ownership.**
 
-## At its core, Gameva is built around three principles:
+### At its core, Gameva is built around three principles:
 
 ### **AI-Powered Creation**
 

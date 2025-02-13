@@ -5,8 +5,8 @@
 ## Product
 
 * [What is Gameva?](getting-started/quickstart.md)
-* [Platfrom](getting-started/publish-your-docs.md)
 * [The Bigger Vision](product/the-bigger-vision.md)
+* [Guide](getting-started/publish-your-docs.md)
 
 ## Tokenomcis
 

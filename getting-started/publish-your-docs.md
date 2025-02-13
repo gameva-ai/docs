@@ -11,8 +11,6 @@ Begin by selecting a game template from our library of mini-games.&#x20;
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
 2. Customise and launch your game by chatting with Eva, our AI game creation agent
 
 You can customise details such as:&#x20;

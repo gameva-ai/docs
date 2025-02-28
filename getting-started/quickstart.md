@@ -10,15 +10,15 @@ Gameva is designed to turn your visions into games. It’s where gaming meets **
 
 ### At its core, Gameva is built around three principles:
 
-### **1. AI-Powered Creation**
+### **1.AI-Powered Creation**
 
 The line between "player" and "creator" disappears. With Gameva, you don’t need to code, hire a team, or even understand game design. Gameva allows creators to focus entirely on their creativity without getting  resistricted by coding or technical complexities. The AI acts as a co-developer, generating assets, mechanics, and even entire game worlds, making creativity boundless.
 
-### **2. Ownership That Matters**
+### **2.Ownership That Matters**
 
 In traditional gaming, what you "own" is… not really yours. On Gameva, every game, asset, and idea you create is **yours to keep, trade, or co-own.**&#x20;
 
-### **Infinite Possibilities**
+### **3.Infinite Possibilities**
 
 There’s no ceiling here. Games don’t stop at release. With AI and community-driven innovation, they evolve, adapt, and grow. Your game could become an entire ecosystem—or a universe.
 

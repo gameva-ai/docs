@@ -2,12 +2,18 @@
 
 * [Welcome](README.md)
 
-## Product
+## Introduction
 
-* [What is Gameva?](getting-started/quickstart.md)
-* [The Bigger Vision](product/the-bigger-vision.md)
-* [Guide](getting-started/publish-your-docs.md)
+* [Overview](introduction/quickstart.md)
+* [Mission and Vision](introduction/mission-and-vision.md)
+* [Gameva’s Technology Stack](introduction/gamevas-technology-stack.md)
+* [Key Advantages of Gameva](introduction/publish-your-docs.md)
+* [Gameva Token Economy Model](introduction/gameva-token-economy-model.md)
 
-## Tokenomcis
+***
 
-* [CA](tokenomcis/quickstart.md)
+* [Whitepaper](whitepaper.md)
+
+## PRODUCT
+
+* [Roadmap](product/quickstart.md)

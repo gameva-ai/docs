@@ -1,22 +1,22 @@
 ---
 description: >-
-  Gameva is committed to decentralized game launching. The following roadmap
+  GameVa is committed to decentralized game launching. The following roadmap
   outlines key milestones in decentralized game deployment, AI-driven creation,
   and global ecosystem expansion.
 ---
 
 # Roadmap
 
-### **Gameva Roadmap (2024 - 2030)**
+### **GameVa Roadmap (2024 - 2030)**
 
 #### **Q4 2024 – Initial Launch and Early Testing**
 
-1. **Gameva Beta Release**
+1. **GameVa Beta Release**
    * Launch the beta version of the Gameva platform, offering initial features of AI-driven creative tools (Game Generate AI) and decentralized game deployment environment (Game Launch Node).
    * Conduct a closed test with a select group of developers and community members to gather feedback and refine core functionalities.
 2. **Community Airdrop and Incentive Program**
    * Distribute initial incentives (e.g., GMV token airdrops) to early testers and community members, encouraging them to explore platform features and provide improvement suggestions.
-   * Initiate community activities on social platforms like Telegram and Discord to increase early attention and awareness of Gameva.
+   * Initiate community activities on social platforms like Telegram and Discord to increase early attention and awareness of GameVa.
 3. **Creator and Community Reward Mechanism Testing**
    * Test creator and community reward mechanisms, including base rewards, performance-based rewards, and more, ensuring that token distribution aligns with platform performance indicators.
 
@@ -24,7 +24,7 @@ description: >-
 
 #### **Q1 2025 – Official Launch and Ecosystem Expansion**
 
-1. **Official Launch (Gameva v1.0)**
+1. **Official Launch (GameVa v1.0)**
    * Finalize optimization and security audits of the platform’s basic features and publicly release Gameva 1.0.
    * Introduce additional decentralized nodes (Game Launch Node) to enhance platform stability and scalability.
 2. **AI Agent Module Enhancement**
@@ -50,7 +50,7 @@ description: >-
    * Enable GMV token staking features to provide additional rewards for long-term holders (creators, players, and resource providers) to stabilize token value.
    * List GMV tokens on centralized exchanges (CEX) to increase market volume and visibility.
 4. **Game Ecosystem Expansion**
-   * Launch the “Gameva Creator Program” to provide training, technical support, and early-stage resources for independent studios and individual developers.
+   * Launch the “GameVa Creator Program” to provide training, technical support, and early-stage resources for independent studios and individual developers.
 
 ***
 
@@ -58,13 +58,13 @@ description: >-
 
 1. **Community and Creator Network Expansion**
    * Attract more creators and players through community promotion, events, online and offline roadshows, enhancing platform activity and content diversity.
-   * Collaborate with renowned game studios or IPs to introduce premium game projects and enrich Gameva’s content ecosystem.
+   * Collaborate with renowned game studios or IPs to introduce premium game projects and enrich GameVa’s content ecosystem.
 2. **AI Agent Smart Upgrades**
    * Deeply optimize AI NPCs, in-game dialogue systems, and automated community operations to make the gaming experience smarter and more interactive.
    * Improve AI model training and inference efficiency, enabling more real-time interactive scenarios on-chain.
 3. **Global Node Network Expansion**
    * Partner with cloud service providers, data centers, and individual hardware providers to establish a global Game Launch Node network, improving platform throughput and stability.
-   * Strengthen support for emerging markets, attracting more developers and players to promote Gameva’s global expansion.
+   * Strengthen support for emerging markets, attracting more developers and players to promote GameVa’s global expansion.
 
 ***
 
@@ -86,10 +86,10 @@ description: >-
    * Offer customizable high-performance node clusters and service support for large game companies and multinational corporations, meeting the demands of AAA games and massive multiplayer online (MMO) games.
    * Collaborate with more blockchain, cloud computing, and AI ecosystems to enable cross-chain interoperability, allowing for the free flow of game assets and data.
 2. **Cross-Chain Interoperability and Ecosystem Integration**
-   * Partner with other decentralized platforms and public blockchains to enable cross-chain interaction and trading of game items, NFTs, and tokens, expanding Gameva’s user base and ecosystem connectivity.
+   * Partner with other decentralized platforms and public blockchains to enable cross-chain interaction and trading of game items, NFTs, and tokens, expanding GameVa’s user base and ecosystem connectivity.
 3. **Gameva as the Global Decentralized Gaming Standard**
-   * By 2030, the goal is for Gameva to become the globally recognized decentralized game development and publishing platform, gathering a vast community of creators, players, and partners to build a truly open, sustainable gaming ecosystem.
+   * By 2030, the goal is for GameVa to become the globally recognized decentralized game development and publishing platform, gathering a vast community of creators, players, and partners to build a truly open, sustainable gaming ecosystem.
 
 ***
 
-Gameva’s development blueprint spans from the establishment of basic functionalities to the global expansion of its ecosystem, with each phase focusing on AI integration, decentralized node network expansion, and community co-creation. We believe that through staged and orderly progress, Gameva will secure a prominent position in the future gaming industry, offering global creators and players an efficient, free, and innovative gaming experience.
+GameVa’s development blueprint spans from the establishment of basic functionalities to the global expansion of its ecosystem, with each phase focusing on AI integration, decentralized node network expansion, and community co-creation. We believe that through staged and orderly progress, GameVa will secure a prominent position in the future gaming industry, offering global creators and players an efficient, free, and innovative gaming experience.

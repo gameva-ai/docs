@@ -4,11 +4,11 @@
 
 The gaming industry is undergoing an unprecedented transformation, driven by the rapid advancement of artificial intelligence (AI), which is fostering innovation and enhancing player experiences. However, despite technological progress, traditional game development still faces significant challenges, including high costs, complex development cycles, and constrained creative boundaries. Most game development platforms are dominated by large corporations, limiting the creative freedom of developers and preventing them from fully realizing their game visions.
 
-Gameva is committed to changing this paradigm by creating an AI-driven platform that empowers every creator to bring their gaming vision to life. Unlike traditional game development platforms, Gameva is not owned by any single company but is collectively owned by its users, offering boundless creative potential and opportunities for participation. Leveraging advanced AI technology, the platform provides a comprehensive suite of game creation tools, enabling anyone with an idea to seamlessly transform their vision into a playable game.
+GameVa is committed to changing this paradigm by creating an AI-driven platform that empowers every creator to bring their gaming vision to life. Unlike traditional game development platforms, GameVa is not owned by any single company but is collectively owned by its users, offering boundless creative potential and opportunities for participation. Leveraging advanced AI technology, the platform provides a comprehensive suite of game creation tools, enabling anyone with an idea to seamlessly transform their vision into a playable game.
 
-Gameva removes the traditional barriers to game development, making it an accessible and cost-effective process. Whether for small development teams or individual creators, Gameva provides an easy entry into the world of game creation. In addition to its powerful creation tools, the platform integrates blockchain technology to ensure shared ownership and reward mechanisms for creators, offering a transparent, fair, and sustainable incentive model.
+GameVa removes the traditional barriers to game development, making it an accessible and cost-effective process. Whether for small development teams or individual creators, GameVa provides an easy entry into the world of game creation. In addition to its powerful creation tools, the platform integrates blockchain technology to ensure shared ownership and reward mechanisms for creators, offering a transparent, fair, and sustainable incentive model.
 
-Through Gameva, creators can unleash their imagination, harness AI to design games, and reduce the complexity of development, allowing them to focus more on creativity and gameplay. The ultimate goal of Gameva is to return creative power to the developers, democratize the gaming industry, and foster a more diverse and inclusive global gaming ecosystem.
+Through GameVa, creators can unleash their imagination, harness AI to design games, and reduce the complexity of development, allowing them to focus more on creativity and gameplay. The ultimate goal of Gameva is to return creative power to the developers, democratize the gaming industry, and foster a more diverse and inclusive global gaming ecosystem.
 
 ***
 
@@ -22,51 +22,51 @@ However, despite these technological breakthroughs, game creators and developers
 
 #### **2. Decentralized Game Creation**
 
-Similar to cryptocurrencies and AI, the gaming industry is also embracing decentralized solutions. Gameva is a revolutionary decentralized game creation platform designed to fundamentally transform traditional game development by integrating AI and blockchain technology. By leveraging decentralized computing and resource sharing, Gameva eliminates the dependency on large corporations and capital-intensive development teams. It provides a scalable, cost-effective, and transparent game development ecosystem for creators worldwide.
+Similar to cryptocurrencies and AI, the gaming industry is also embracing decentralized solutions. GameVa is a revolutionary decentralized game creation platform designed to fundamentally transform traditional game development by integrating AI and blockchain technology. By leveraging decentralized computing and resource sharing, GameVa eliminates the dependency on large corporations and capital-intensive development teams. It provides a scalable, cost-effective, and transparent game development ecosystem for creators worldwide.
 
-Gameva connects a network of distributed computing resources, empowering creators with robust game development tools. This ensures that anyone can build their dream game without incurring the high costs traditionally associated with game development. In addition to providing creation tools, the platform employs blockchain technology to guarantee ownership rights and fair rewards, ensuring that every contribution to the creative process is recognized and fairly compensated.
+GameVa connects a network of distributed computing resources, empowering creators with robust game development tools. This ensures that anyone can build their dream game without incurring the high costs traditionally associated with game development. In addition to providing creation tools, the platform employs blockchain technology to guarantee ownership rights and fair rewards, ensuring that every contribution to the creative process is recognized and fairly compensated.
 
 #### **3. Existing Solutions and Their Limitations**
 
 Traditional game engines such as Unity and Unreal require professional development teams, while user-generated content (UGC) platforms like Roblox suffer from centralized control and opaque revenue distribution. Meanwhile, blockchain-based games often prioritize financial mechanics over gameplay experience.
 
-Gameva differentiates itself by establishing an AI-driven, fully automated game deployment pipeline—where users input creative ideas, and the platform delivers fully operational games without requiring conventional development workflows. Furthermore, all ownership rights are fully decentralized.
+GameVa differentiates itself by establishing an AI-driven, fully automated game deployment pipeline—where users input creative ideas, and the platform delivers fully operational games without requiring conventional development workflows. Furthermore, all ownership rights are fully decentralized.
 
-Thus, there is an urgent need for an innovative platform that overcomes the limitations of traditional models by utilizing decentralized computing and resource-sharing to offer a more equitable, efficient, and transparent game development environment. Gameva is designed to meet this need, harnessing the power of AI and blockchain to build a creative, inclusive, and sustainable global game creation ecosystem.
+Thus, there is an urgent need for an innovative platform that overcomes the limitations of traditional models by utilizing decentralized computing and resource-sharing to offer a more equitable, efficient, and transparent game development environment. GameVa is designed to meet this need, harnessing the power of AI and blockchain to build a creative, inclusive, and sustainable global game creation ecosystem.
 
 #### **III. Solution Overview**
 
-#### **1. Introduction to Gameva**
+#### **1. Introduction to** GameVa
 
 #### **1.1. What is Gameva?**
 
-Gameva is a decentralized game creation platform designed for creators, enabling users to transform their imagination into unique gaming worlds. Leveraging artificial intelligence (AI), the platform revolutionizes the game development process, granting creators complete control and shared ownership. Unlike traditional game development models bound by corporate restrictions, Gameva empowers creators to design, build, and engage with a global player base freely. Moreover, through its "play-to-earn" mechanism, creators can not only enjoy the process of game creation but also generate revenue, doubling the fun of participation.
+Gameva is a decentralized game creation platform designed for creators, enabling users to transform their imagination into unique gaming worlds. Leveraging artificial intelligence (AI), the platform revolutionizes the game development process, granting creators complete control and shared ownership. Unlike traditional game development models bound by corporate restrictions, GameVa empowers creators to design, build, and engage with a global player base freely. Moreover, through its "play-to-earn" mechanism, creators can not only enjoy the process of game creation but also generate revenue, doubling the fun of participation.
 
-By integrating intelligent tools, a decentralized computing network, and AI-driven agents, Gameva significantly lowers the barrier to game development while fostering innovation and creative freedom. The ecosystem—jointly built by creators, players, and community members—represents a paradigm shift in the gaming industry, redefining the boundaries of game creation and player experience.
+By integrating intelligent tools, a decentralized computing network, and AI-driven agents, GameVa significantly lowers the barrier to game development while fostering innovation and creative freedom. The ecosystem—jointly built by creators, players, and community members—represents a paradigm shift in the gaming industry, redefining the boundaries of game creation and player experience.
 
 #### **1.2. How Gameva Addresses Existing Challenges**
 
-Gameva solves the traditional challenges of high costs, technical complexity, and creative limitations in game development through decentralized computing and resource sharing. The platform provides AI-driven agent tools that automate content generation, optimize game design, and balance gameplay mechanics, dramatically improving development efficiency and quality. Furthermore, blockchain technology ensures that creators retain full ownership of their work, with a transparent and fair revenue distribution system guaranteeing that every contributor receives rightful rewards.
+GameVa solves the traditional challenges of high costs, technical complexity, and creative limitations in game development through decentralized computing and resource sharing. The platform provides AI-driven agent tools that automate content generation, optimize game design, and balance gameplay mechanics, dramatically improving development efficiency and quality. Furthermore, blockchain technology ensures that creators retain full ownership of their work, with a transparent and fair revenue distribution system guaranteeing that every contributor receives rightful rewards.
 
-Gameva’s decentralized structure allows global creators to participate in game development without relying on traditional development teams or large corporations, significantly lowering the cost and entry barriers. The platform’s AI-driven agents also offer smart assistance throughout the entire creative process—from ideation to execution—ensuring an intuitive and efficient experience for all creators.
+GameVa’s decentralized structure allows global creators to participate in game development without relying on traditional development teams or large corporations, significantly lowering the cost and entry barriers. The platform’s AI-driven agents also offer smart assistance throughout the entire creative process—from ideation to execution—ensuring an intuitive and efficient experience for all creators.
 
 #### **2. Key Components of Gameva**
 
 #### **2.1. The Gameva Platform**
 
-The Gameva platform serves as the core of the entire creative ecosystem, encompassing game design, resource management, and collaborative creation. Built on blockchain technology, it guarantees creators' rights and ownership while supporting decentralized community governance. This ensures a fair environment where creators can showcase their ideas without concerns over exploitation. The platform’s architecture also enables efficient and secure resource management, offering robust computational support, intelligent tools, and creative assistance.
+The GameVa platform serves as the core of the entire creative ecosystem, encompassing game design, resource management, and collaborative creation. Built on blockchain technology, it guarantees creators' rights and ownership while supporting decentralized community governance. This ensures a fair environment where creators can showcase their ideas without concerns over exploitation. The platform’s architecture also enables efficient and secure resource management, offering robust computational support, intelligent tools, and creative assistance.
 
 #### **2.2. AI Agents**
 
-As the first AI-native decentralized game deployment protocol, Gameva utilizes artificial intelligence to transform creators’ visions into reality, achieving a true "what you imagine is what you get" experience in game development. The AI system not only assists in game design and optimization but also continuously refines gameplay based on player feedback and data analytics. This real-time enhancement ensures that every game aligns with player preferences and industry trends. The AI’s ability to generate and refine content autonomously significantly reduces development complexity and costs, allowing creators to focus entirely on creativity rather than technical implementation.
+As the first AI-native decentralized game deployment protocol, GameVa utilizes artificial intelligence to transform creators’ visions into reality, achieving a true "what you imagine is what you get" experience in game development. The AI system not only assists in game design and optimization but also continuously refines gameplay based on player feedback and data analytics. This real-time enhancement ensures that every game aligns with player preferences and industry trends. The AI’s ability to generate and refine content autonomously significantly reduces development complexity and costs, allowing creators to focus entirely on creativity rather than technical implementation.
 
 #### **2.3. Decentralized Creation Model**
 
-Gameva employs a decentralized creation model where all game development tasks and resource allocations are managed via blockchain-based smart contracts. Creative tasks are broken down into smaller, manageable units that are processed by a distributed network of computing nodes worldwide. This decentralized approach eliminates bottlenecks and inefficiencies associated with centralized architectures, ensuring optimal resource utilization. Additionally, both creators and computational resource providers can contribute based on their capabilities and interests, fostering a collaborative and scalable game development ecosystem.
+GameVa employs a decentralized creation model where all game development tasks and resource allocations are managed via blockchain-based smart contracts. Creative tasks are broken down into smaller, manageable units that are processed by a distributed network of computing nodes worldwide. This decentralized approach eliminates bottlenecks and inefficiencies associated with centralized architectures, ensuring optimal resource utilization. Additionally, both creators and computational resource providers can contribute based on their capabilities and interests, fostering a collaborative and scalable game development ecosystem.
 
 #### **2.4. GMV Token Economics**
 
-The GMV token serves as the core incentive mechanism within the Gameva platform, designed to reward creators, computing resource providers, and users. Creators earn GMV tokens by publishing games, completing creative tasks, and engaging with the community, while resource providers receive compensation for contributing computational power. All transactions and resource allocations within the platform are conducted using GMV tokens, ensuring a sustainable and equitable ecosystem.
+The GMV token serves as the core incentive mechanism within the GameVa platform, designed to reward creators, computing resource providers, and users. Creators earn GMV tokens by publishing games, completing creative tasks, and engaging with the community, while resource providers receive compensation for contributing computational power. All transactions and resource allocations within the platform are conducted using GMV tokens, ensuring a sustainable and equitable ecosystem.
 
 The tokenomics model is carefully structured to maintain economic stability, prevent inflation, and ensure fair reward distribution. It is designed to support the long-term growth and stability of the platform, guaranteeing that all participants’ contributions are valued and fairly compensated.
 
@@ -74,11 +74,11 @@ The tokenomics model is carefully structured to maintain economic stability, pre
 
 #### 1. Overview of Underlying Technologies
 
-Gameva's technical architecture is built on the principles of decentralization and AI-driven innovation. By integrating large language models (LLMs), blockchain, and Web3 technologies, the platform provides end-to-end support for game content generation, cross-platform deployment, and community interaction. The goal is to offer game creators an efficient, cost-effective, and scalable game development and publishing platform while ensuring data security, transparency, and seamless collaboration across multiple platforms.
+GameVa's technical architecture is built on the principles of decentralization and AI-driven innovation. By integrating large language models (LLMs), blockchain, and Web3 technologies, the platform provides end-to-end support for game content generation, cross-platform deployment, and community interaction. The goal is to offer game creators an efficient, cost-effective, and scalable game development and publishing platform while ensuring data security, transparency, and seamless collaboration across multiple platforms.
 
 #### 2. Components of the Gameva Network
 
-Gameva’s network consists of three key modules, each fulfilling specific roles and working together to form a decentralized and intelligent game ecosystem:
+GameVa’s network consists of three key modules, each fulfilling specific roles and working together to form a decentralized and intelligent game ecosystem:
 
 #### 1. **Game Generate AI**
 
@@ -112,7 +112,7 @@ Gameva’s network consists of three key modules, each fulfilling specific roles
 
 #### 3. Workflow
 
-The diagram (conceptual description) below illustrates the interaction between the components in Gameva’s technical architecture, covering the entire process from idea submission to game launch and operation:
+The diagram (conceptual description) below illustrates the interaction between the components in GameVa’s technical architecture, covering the entire process from idea submission to game launch and operation:
 
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -134,7 +134,7 @@ The diagram (conceptual description) below illustrates the interaction between t
 
 #### 4. Automatic Parallelization
 
-To handle large-scale content generation and game deployment tasks, Gameva incorporates automatic parallelization, ensuring stable and efficient operations even under high-concurrency demands.
+To handle large-scale content generation and game deployment tasks, GameVa incorporates automatic parallelization, ensuring stable and efficient operations even under high-concurrency demands.
 
 1. **Automated Sharding & Distribution**
    * When developers submit bulk asset generation tasks or complex AI logic requests, Game Generate AI and Game Portex automatically break them into smaller sub-tasks for distributed processing.
@@ -145,7 +145,7 @@ To handle large-scale content generation and game deployment tasks, Gameva incor
 
 #### 5. AI Workload Support
 
-Gameva’s technical infrastructure is optimized for AI workloads:
+GameVa’s technical infrastructure is optimized for AI workloads:
 
 * **Compatibility with Multiple AI Frameworks:** The platform supports TensorFlow, PyTorch, ONNX, and other common deep learning frameworks, enabling developers to run training or inference logic directly on nodes.
 * **LLM Adaptability:** Game Generate AI and AI Agent nodes support both data parallelism and model parallelism, ensuring scalability for large-scale language models (LLMs) and high-volume inference tasks.
@@ -157,30 +157,30 @@ Gameva’s technical infrastructure is optimized for AI workloads:
 
 1.  **Creator Sovereignty and Shared Ownership**
 
-    Gameva offers complete creative freedom, granting every creator full control over the content of their games. Creators not only own the intellectual property of their games but can also earn revenue by selling or sharing their content on the platform, enjoying the true value of game creation.
+    GameVa offers complete creative freedom, granting every creator full control over the content of their games. Creators not only own the intellectual property of their games but can also earn revenue by selling or sharing their content on the platform, enjoying the true value of game creation.
 2.  **Play-to-Earn, Double the Fun**
 
-    Gameva’s unique "play-to-earn" mechanism motivates players to earn GVT tokens while enjoying games. With every game played and every task completed, players can earn real rewards, turning gaming into a new way to make money.
+    GameVa’s unique "play-to-earn" mechanism motivates players to earn GVT tokens while enjoying games. With every game played and every task completed, players can earn real rewards, turning gaming into a new way to make money.
 3.  **Decentralized Platform, Zero Company Control**
 
-    Gameva’s decentralized structure means there is no interference from any company or organization. All content and decisions on the platform are collectively made by the community members and creators. Everyone can hold a share in the platform and benefit from its development, ensuring true freedom and fairness.
+    GameVa’s decentralized structure means there is no interference from any company or organization. All content and decisions on the platform are collectively made by the community members and creators. Everyone can hold a share in the platform and benefit from its development, ensuring true freedom and fairness.
 4.  **AI-Powered Creative Tools**
 
-    Leveraging artificial intelligence, Gameva provides creators with powerful tools to easily design and build unique game worlds. AI-driven content generation drastically reduces development time and costs, allowing creators to focus more on creativity rather than worrying about technical implementation.
+    Leveraging artificial intelligence, GameVa provides creators with powerful tools to easily design and build unique game worlds. AI-driven content generation drastically reduces development time and costs, allowing creators to focus more on creativity rather than worrying about technical implementation.
 5.  **Efficient Global Resource Sharing**
 
-    Gameva offers decentralized global computing resources, ensuring efficiency in game development and operations. Creators and players can utilize globally distributed computing nodes, experiencing stable and efficient gameplay regardless of their location, while maximizing the utilization of platform resources.
+    GameVa offers decentralized global computing resources, ensuring efficiency in game development and operations. Creators and players can utilize globally distributed computing nodes, experiencing stable and efficient gameplay regardless of their location, while maximizing the utilization of platform resources.
 6.  **Diverse Revenue Models**
 
-    Gameva provides creators not only with the opportunity to profit from game sales but also encourages players to engage in creation and interaction through reward mechanisms. Whether through selling virtual items, completing tasks, or participating in community activities, users can earn income through various channels, breaking the traditional single-revenue model in gaming.
+    GameVa provides creators not only with the opportunity to profit from game sales but also encourages players to engage in creation and interaction through reward mechanisms. Whether through selling virtual items, completing tasks, or participating in community activities, users can earn income through various channels, breaking the traditional single-revenue model in gaming.
 7.  **Secure and Transparent Transactions and Rewards**
 
-    Powered by blockchain technology, Gameva ensures all creation, transactions, and rewards are transparent, secure, and traceable. Smart contracts guarantee creators' and players' earnings are distributed promptly and fairly, while the platform prevents data tampering and fraud, offering users a worry-free gaming experience.
+    Powered by blockchain technology, GameVa ensures all creation, transactions, and rewards are transparent, secure, and traceable. Smart contracts guarantee creators' and players' earnings are distributed promptly and fairly, while the platform prevents data tampering and fraud, offering users a worry-free gaming experience.
 
 #### VI. Conclusion
 
-As artificial intelligence and decentralized principles continue to evolve, Gameva is leading a revolution in the gaming industry. Through innovative decentralized architecture, AI technology, and blockchain security, Gameva provides a fair, efficient, and free platform for creators and players worldwide, transforming the way games are created, released, and played.
+As artificial intelligence and decentralized principles continue to evolve, GameVa is leading a revolution in the gaming industry. Through innovative decentralized architecture, AI technology, and blockchain security, GameVa provides a fair, efficient, and free platform for creators and players worldwide, transforming the way games are created, released, and played.
 
-Gameva not only turns creators' imaginations into reality but also ensures the protection of every participant's interests through the platform’s reward mechanisms. Looking ahead, Gameva will continue to strive to build a more open, free, and transparent gaming ecosystem, allowing every creator and player to find their value within the platform.
+GameVa not only turns creators' imaginations into reality but also ensures the protection of every participant's interests through the platform’s reward mechanisms. Looking ahead, Gameva will continue to strive to build a more open, free, and transparent gaming ecosystem, allowing every creator and player to find their value within the platform.
 
-We invite game creators, players, developers, and all stakeholders to join the Gameva ecosystem and work together to drive this transformation, realizing a more fair, free, and diversified gaming future.
+We invite game creators, players, developers, and all stakeholders to join the GameVa ecosystem and work together to drive this transformation, realizing a more fair, free, and diversified gaming future.

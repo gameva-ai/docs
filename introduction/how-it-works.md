@@ -1,8 +1,8 @@
-# Gameva’s Technology Stack
+# How It Works
 
-Gameva provides game creators with a low-cost AI-driven game creation and deployment solution.
+GameVa provides game creators with a low-cost AI-driven game creation and deployment solution.
 
-The Gameva workflow consists of three main components:
+The GameVa workflow consists of three main components:
 
 1. **Game Creation AI**
 2. **Game Launch Node**

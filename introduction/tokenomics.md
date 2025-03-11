@@ -1,6 +1,6 @@
-# Gameva Token Economy Model
+# Tokenomics
 
-Gameva is committed to building a decentralized, well-incentivized, and transparent gaming ecosystem. Our token, **GMV (Gameva Token)**, will serve as the core medium for all transactions, rewards, and incentives within the platform. It provides a fair value-sharing mechanism for global creators, players, strategic partners, and other ecosystem participants.
+GameVa is committed to building a decentralized, well-incentivized, and transparent gaming ecosystem. Our token, **GMV (Gameva Token)**, will serve as the core medium for all transactions, rewards, and incentives within the platform. It provides a fair value-sharing mechanism for global creators, players, strategic partners, and other ecosystem participants.
 
 ***
 
@@ -84,9 +84,9 @@ To ensure the long-term sustainable development of the platform, GMV tokens will
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-### 4. Gameva Token Buyback and Burn Mechanism
+### 4. GameVa Token Buyback and Burn Mechanism
 
-Gameva is committed to maintaining the long-term value and market stability of GMV tokens through a comprehensive buyback and burn mechanism. This mechanism combines market-driven buyback triggers, periodic buybacks, and burn measures during trading, usage, and reward phases, thereby gradually reducing the token supply and fostering a healthy ecosystem.
+GameVa is committed to maintaining the long-term value and market stability of GMV tokens through a comprehensive buyback and burn mechanism. This mechanism combines market-driven buyback triggers, periodic buybacks, and burn measures during trading, usage, and reward phases, thereby gradually reducing the token supply and fostering a healthy ecosystem.
 
 #### 1. Market Buyback and Burn
 
@@ -101,7 +101,7 @@ Gameva is committed to maintaining the long-term value and market stability of G
 
 #### 2. Periodic Buyback and Burn
 
-* **Scheduled Measures** In addition to market-triggered buybacks, Gameva will conduct regular (e.g., quarterly) buybacks using a portion of the platform’s revenue. The tokens repurchased through these periodic efforts will also be burned.
+* **Scheduled Measures** In addition to market-triggered buybacks, GameVa will conduct regular (e.g., quarterly) buybacks using a portion of the platform’s revenue. The tokens repurchased through these periodic efforts will also be burned.
   * **Objective**: Continuously decrease the circulating supply during stable market conditions, further supporting token price stability and bolstering investor confidence.
 
 #### 3. Transaction Fee Burn
@@ -158,6 +158,6 @@ To maintain market stability and ensure fair distribution, GMV tokens sold in th
 
     ### **6. Conclusion**
 
-    Gameva’s token economy model is designed to create a **fair, transparent, and sustainable** ecosystem through **scientific token allocation, strict lock-up and vesting policies, and continuous burn & incentive mechanisms**. This model not only incentivizes **global creators, players, and strategic partners** to actively participate in the platform’s development but also ensures that **GMV tokens maintain long-term value and controlled supply**.
+    GameVa’s token economy model is designed to create a **fair, transparent, and sustainable** ecosystem through **scientific token allocation, strict lock-up and vesting policies, and continuous burn & incentive mechanisms**. This model not only incentivizes **global creators, players, and strategic partners** to actively participate in the platform’s development but also ensures that **GMV tokens maintain long-term value and controlled supply**.
 
     We believe this approach will drive the healthy growth of the decentralized gaming ecosystem, providing lasting innovation and shared benefits for **creators and players worldwide**.

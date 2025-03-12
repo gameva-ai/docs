@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/docs头图.jpg
+cover: .gitbook/assets/docs______.jpg
 coverY: 0
 layout:
   cover:

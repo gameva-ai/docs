@@ -6,7 +6,7 @@ description: Overview of Gameva
 
 **What Is GameVa?**
 
-GameVa is a decentralized game launch platform designed to eliminate the high barriers of traditional game development through artificial intelligence (AI) and blockchain technology. It enables creators to effortlessly transform their ideas into fully playable games. Unlike conventional platforms, GameVa provides a decentralized environment where developers can design, launch, and share games globally without interference from centralized entities.
+GameVa is a decentralized game launch platform designed to eliminate the high barriers of traditional game development through Ai and blockchain. It enables creators to effortlessly transform their ideas into fully playable games. Unlike conventional platforms, GameVa provides a decentralized environment where developers can design, launch, and share games without interference from centralized entities.
 
 By integrating AI-driven creation tools and decentralized resource management, GameVa offers comprehensive support for developers, regardless of team size. Even solo creators can utilize the platform’s powerful tools and resources to bring their games to life quickly. On GameVa, creators retain complete ownership of their games through blockchain technologies that safeguards their asset rights and earnings.
 
